@@ -21,8 +21,16 @@ Or install it yourself as:
 
 ## Usage
 
+API call for drinking beer
+
 ```ruby
 Budman.drink_bear
+```
+
+API call for Budman's opinion about IPAs.
+
+```ruby
+Budman.ipa
 ```
 
 ## Contributing

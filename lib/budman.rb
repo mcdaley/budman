@@ -8,5 +8,12 @@ module Budman
   def self.drink_beer
     puts "Budman says drink Budwieser"
   end
+  
+  ##
+  # Budman's opinion about IPAs
+  #
+  def self.ipa
+    puts "Budman does not like IPAs - too hoppy"
+  end
 
 end # end of module Budman
