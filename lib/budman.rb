@@ -6,7 +6,7 @@ module Budman
   # Drink budweiser
   #
   def self.drink_beer
-    puts "Budman says drink Budwieser"
+    puts "Budman says drink Budweiser, dude"
   end
   
   ##
