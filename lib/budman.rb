@@ -1,5 +1,12 @@
-require "budman/version"
+require_relative "budman/version"
 
 module Budman
-  # Your code goes here...
-end
+  
+  ##
+  # Drink budweiser
+  #
+  def self.drink_beer
+    puts "Budman says drink Budwieser"
+  end
+
+end # end of module Budman
