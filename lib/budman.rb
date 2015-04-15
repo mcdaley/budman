@@ -1,4 +1,4 @@
-require_relative "budman/version"
+require "budman/version"
 
 module Budman
   
