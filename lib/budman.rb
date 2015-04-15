@@ -1,4 +1,4 @@
-require_relative "budman/version"
+require "budman/version"
 
 module Budman
   
@@ -6,14 +6,14 @@ module Budman
   # Drink budweiser
   #
   def self.drink_beer
-    puts "Budman says drink Budwieser"
+    "Budman says drink Budweiser, dude"
   end
   
   ##
   # Budman's opinion about IPAs
   #
   def self.ipa
-    puts "Budman does not like IPAs - too hoppy"
+    "Budman does not like IPAs - too hoppy"
   end
   
   ##
