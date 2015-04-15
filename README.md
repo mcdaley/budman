@@ -33,6 +33,12 @@ API call for Budman's opinion about IPAs.
 Budman.ipa
 ```
 
+API call for Budman's opinion about lagers/
+
+```ruby
+Budman.lager
+```
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/budman/fork )
