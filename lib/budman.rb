@@ -20,7 +20,7 @@ module Budman
   # Budman's opinion about lagers
   #
   def self.lager
-    puts "Budman loves ice cold lagers"
+    "Budman loves ice cold lagers"
   end
 
 end # end of module Budman
